@@ -1,11 +1,3 @@
-1. Home Page
-   1. Show recently listed NFT ✅
-    1. If you own the listing then you can update ✅
-    2. If you don't own, you can buy it. ✅
-2. Sell Page
-   1. You can list your NFT to marketplace and approve marketplace to sell it.
-   2. And withdraw income/proceeds
-
 # NFT Marketplace frontend using NextJs and Moralis.
 
 This is the frontend part of NFT marketplace that allows a web3 user to interact with the [smart contract](https://github.com/sanjaydefidev/hardhat-nft-marketplace-smart-contracts) developed using hardhat. We have used NextJs and [web3uikit](https://web3uikit.com/) as our frontend stack to develop the interface. We have also used [Moralis](https://moralis.io/) database server to store user's NFTes.
